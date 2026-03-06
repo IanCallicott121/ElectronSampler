@@ -4,7 +4,7 @@
   "description": "A new Electron app scaffold",
   "main": "main.js",
   "scripts": {
-    "start": "set ELECTRON_RUN_AS_NODE=&& electron ."
+    "start": "node scripts/start-electron.js"
   },
   "keywords": [
     "electron"
