@@ -1,0 +1,17 @@
+{
+  "name": "electron-sampler",
+  "version": "1.0.0",
+  "description": "A new Electron app scaffold",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^37.0.0"
+  }
+}
